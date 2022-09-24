@@ -104,6 +104,5 @@ tabLayout.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
 
 # App Highlight
 
-<img src="app_images/Fragment and Tabs Code.png" width="1000" /><br>
-
-<img src="app_images/Fragment and Tabs App.png" width="300" />
+![Fragment and Tabs App](https://user-images.githubusercontent.com/74413402/192095682-3737c70d-2196-471d-9ca0-de2f83b74dad.png)
+![Fragment and Tabs Code](https://user-images.githubusercontent.com/74413402/192095683-5684f92e-bc71-44d0-b22b-d3ee71e9daae.png)
